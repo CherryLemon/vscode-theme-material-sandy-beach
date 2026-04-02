@@ -2,7 +2,7 @@
   "name": "material-sandy-beach-theme",
   "displayName": "Material Sandy Beach Theme",
   "description": "A light VS Code theme based on the Material Sandy Beach palette.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "lemoncn167",
   "engines": {
     "vscode": "^1.80.0"
