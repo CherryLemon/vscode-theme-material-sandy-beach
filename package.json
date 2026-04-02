@@ -1,0 +1,35 @@
+{
+  "name": "material-sandy-beach-theme",
+  "displayName": "Material Sandy Beach Theme",
+  "description": "A light VS Code theme based on the Material Sandy Beach palette.",
+  "version": "1.0.5",
+  "publisher": "lemoncn167",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CherryLemon/vscode-theme-material-sandy-beach"
+  },
+  "bugs": {
+    "url": "https://github.com/CherryLemon/vscode-theme-material-sandy-beach/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "light-theme",
+    "material"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Sandy Beach",
+        "uiTheme": "vs",
+        "path": "./themes/material-sandy-beach-color-theme.json"
+      }
+    ]
+  }
+}
